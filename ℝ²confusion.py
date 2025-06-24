@@ -1,6 +1,4 @@
-'''ℝ² confusion'''
-'''ℝ² as the "Default Canvas"
-
+'''ℝ² confusion
 Convenient: We have 2D screens, paper, blackboards
 Intuitive: Our visual system evolved for 3D space, so 2D projections feel natural
 Historical: Centuries of mathematical tradition using Cartesian coordinates'''
